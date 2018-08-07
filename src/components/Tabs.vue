@@ -22,6 +22,7 @@
         <div class="tabs-component-panels">
             <slot/>
         </div>
+        <div ref="bar" class="tabs-component-bar"></div>
     </div>
 </template>
 
